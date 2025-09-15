@@ -40,7 +40,7 @@ npm run build
 El resultado se encontrará en la carpeta dist/.
 
 
-##⚡ Funcionalidades
+⚡ Funcionalidades
 
 SPA que no recarga la página al navegar.
 
@@ -50,17 +50,18 @@ Modularización del código con Webpack.
 
 Compatible con los principales navegadores modernos.
 
-##🔧 Scripts disponibles
+🔧 Scripts disponibles
 Comando	Descripción
 npm run start	Inicia la aplicación en modo desarrollo
 npm run build	Genera los archivos de producción en dist/
 
-##📝 Licencia
+📝 Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
 
 👤 Autor
 
 Marco León – Desarrollador Front End
+
 
 
